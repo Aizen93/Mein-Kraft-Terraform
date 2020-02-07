@@ -1,0 +1,9 @@
+scala-project/target
+scala-project/project/target
+scala-project/project/project/target
+scala-project/project/metals.sbt
+scala-project/core/target
+scala-project/desktop/target
+scala-project/.idea
+scala-project/.metals
+scala-project/.bloop
