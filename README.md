@@ -10,6 +10,11 @@
 
 
 
+# Link to youtube vidéo :
+Brief explanation of the project 
+
+https://www.youtube.com/watch?v=2DVZCdISgPI&t=451s
+
 # Extensions done :
 This is a list of what has been done in the second version of the project.
 
